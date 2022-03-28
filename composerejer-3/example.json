@@ -1,0 +1,9 @@
+{
+    "name": "platzi",
+    "description": "Instituto onlune",
+    "courses": {
+        "advanced": ["PHP", "VUE.js"],
+        "basic": ["JSON", "HTML"]
+        
+    }
+}
